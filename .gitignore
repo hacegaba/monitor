@@ -1,0 +1,10 @@
+/.idea/
+/build/
+/config/
+/target/
+/node_modules/
+
+/webpack.config.js
+/webpack.generated.js
+/package-lock.json
+/package.json
